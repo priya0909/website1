@@ -1,0 +1,77 @@
+.background_image{
+  background-image: url(https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg);  
+  background-size: cover;
+  height: 100vh;
+  
+}
+.container{
+    background-color: rgb(226, 232, 237);
+    width: 700px;
+    border-radius: 10px;
+}
+.Heading{
+    color: coral;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    margin: 20px 20px;
+}
+p{
+    color:#0f0e46;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.botton_homepage{
+    background-color: #f19116;
+    color:white;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    border-color: coral;
+    width:150px;
+
+}
+.bg{
+    background-image: url(https://img.freepik.com/free-photo/3d-rendering-beautiful-comtemporary-luxury-bedroom-suite-hotel-with-tv_105762-2065.jpg?w=996&t=st=1685955731~exp=1685956331~hmac=0b794b89ec20c52471ba857a760aea1f225b3801e0d92bb0ab05e3b11a8a1e27);
+    background-size: cover;
+    height: 100vh;
+    opacity:1;
+    color:bisque;
+}
+.Details{
+    margin-left:80px;
+    margin-bottom: 80px;  
+    font-size: 2rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.para{
+    color:bisque;
+    margin-bottom: 80px; 
+    font-size: 2rem;
+}
+button{
+    background-color: transparent;
+    color:bisque;
+    border-radius: 5px;
+    
+}
+#clear{
+    text-decoration: none;
+    color:bisque
+}
+.bg1{
+    background-image: url(https://img.freepik.com/free-photo/relax-bedroom_1150-17980.jpg?w=996&t=st=1685957721~exp=1685958321~hmac=c9288ad9a45d2d81354030cc057a46931414574f0a5bfb11df7057e55f2b8e9c);
+    background-size: cover;
+    height: 100vh;
+    opacity:1;
+    color:bisque;
+}
+.bg2{
+    background-image: url(https://img.freepik.com/free-photo/3d-rendering-modern-luxury-bedroom-suite-bathroom_105762-1936.jpg?w=826&t=st=1685957783~exp=1685958383~hmac=c8f41688001927623dcac6def62fb84c8b9cd5fd2e856b7c9f616554bcb97c79);
+    background-size: cover;
+    height: 100vh;
+    opacity:1;
+    color:bisque;
+}
+#main{
+    color:white;
+    text-decoration: none;
+}

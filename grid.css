@@ -1,0 +1,16 @@
+
+.container{
+  background-color: goldenrod;
+  height:700px;
+  display:grid;
+  grid-template-columns: 1fr;
+  
+  
+}
+
+.items{
+    background-color:dimgrey;
+    
+    grid-column-start:auto;
+    
+}
